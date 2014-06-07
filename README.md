@@ -20,7 +20,12 @@ The first step will explore using the GPX data:
 
 ### First exploratory phase
 
-And specifically this intial project will look at extracting the GPX data en masse
+This first project will look at extracting the GPX data en masse
+
+Some initial decisions to consider are:
+
+* The most effective language for the mass processing of XML files
+* The most appropriate data format and repository for the combined dataset
 
 ### Reference sources
 
@@ -30,4 +35,4 @@ So far the following references have in some way contributed to this work:
 * Kenneth Trease's [Python code](https://github.com/kptrease/gpx_stuff) used by Kate to extract her GPX data
 * Joni Virtanen's [forum question](https://getsatisfaction.com/sportstracking/topics/heart_rate_import_from_gpx_file)  on extracting HR data from GPX files
 
-Note that both [Kate Hotler](https://www.linkedin.com/in/katehotler) (UX Designer) and [Kenneth Trease](https://www.linkedin.com/pub/kenneth-trease/4/800/a16) (Sofware Engineer) work at Tableau
+*Note that both [Kate Hotler](https://www.linkedin.com/in/katehotler) (UX Designer) and [Kenneth Trease](https://www.linkedin.com/pub/kenneth-trease/4/800/a16) (Sofware Engineer) work at Tableau*
