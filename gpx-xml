@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+ <metadata>
+  <time>2014-06-06T07:42:53Z</time>
+ </metadata>
+ <trk>
+  <name>06/06/2014 Mellow CS Grupetto vs Brixton ride</name>
+  <trkseg>
+   <trkpt lat="51.1479590" lon="0.0963240">
+    <ele>61.4</ele>
+    <time>2014-06-06T10:41:58Z</time>
+    <extensions>
+     <gpxtpx:TrackPointExtension>
+      <gpxtpx:atemp>20</gpxtpx:atemp>
+      <gpxtpx:hr>118</gpxtpx:hr>
+      <gpxtpx:cad>81</gpxtpx:cad>
+     </gpxtpx:TrackPointExtension>
+    </extensions>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
